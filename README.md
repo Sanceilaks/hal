@@ -3,17 +3,17 @@ My attem to create alternative loader for [Hearts of Iron IV](https://store.stea
 
 # Build and Run
 
-* Install tauri
+* Init
 ```
-cargo install tauri
+yarn
 ```
 * Build
 ```
-cargo tauri build
+yarn tauri build
 ```
 * Run
 ```
-cargo tauri dev
+yarn tauri dev
 ```
 
 # Design
